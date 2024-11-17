@@ -1,0 +1,1 @@
+export { MainErrorFallBack } from "./main";
